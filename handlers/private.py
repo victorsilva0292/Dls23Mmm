@@ -21,10 +21,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/callsmusicchat"
+                        "Group", url="https://t.me/joinchat/k1V6mAJXiFRiMzUx"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/callsmusic"
+                        "Channel", url="https://t.me/joinchat/k1V6mAJXiFRiMzUx"
                     )
                 ]
             ]
